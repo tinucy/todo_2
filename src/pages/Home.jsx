@@ -1,5 +1,6 @@
 import React from "react";
+import Container from "../components/container/Container";
 
 export default function Home() {
-  return <div>Our Home is blessed</div>;
+  return <Container />;
 }
